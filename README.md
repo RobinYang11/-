@@ -1,5 +1,6 @@
 # 常用算法——不同语言的实现
 ## 直接插入排序
+      时间复杂度为O(n^2)
 ###  python语言的实现 
         def insertSort_f(self,list):
 		length=len(list)
